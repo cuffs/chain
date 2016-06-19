@@ -1,2 +1,15 @@
-# chains
-A modular framework to build web console apps.
+```
+  ______ _     _             _____ _____ ______      ______      ______ 
+ / _____) |   | |______    / ___  (_____)  _____\__/_______\___/_______)
+| /     | |___| /_______\_| (___) | | | | |  (_______)___(_______)____
+| |     |  ___  __)___(___   ___  | | | | |   | |  \_______/   \_____  \
+| \_____| |   | \_______/ | |   | |_| |_| |   | |               _____)  )
+ \______)_|   |_|         |_|   |_(_____)_|   |_|              (_______/
+
+```
+
+> A modular framework to build web console apps.
+
+## Credits
+
+This project is heavily influenced by, [Hawt.io](http://hawt.io/)
