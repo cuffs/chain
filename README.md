@@ -10,7 +10,7 @@
 
 ```
 
-> Cuffschain (or Kuhfscheyn) is a modular framework to build web console apps.
+> Kuhfscheyn is a modular framework to build web console apps.
 
 ## Credits
 
